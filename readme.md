@@ -50,3 +50,5 @@ Open AIPmini directory with terminal and write this.
 AIPmini "C:\main directory" to "C:\package.aip"
 ```
 This will pack main directory on disk C: to package.aip on disk C:.
+# How to install package from AIP?
+To install files or app from AIP you need open AIP file with AIPmini
