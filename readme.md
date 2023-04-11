@@ -11,4 +11,5 @@ You can download it from that repository
 
 # How to create AIP using AIPmini?
 Move all your files to one directory
+
 ![Your directory may look like this](https://github.com/wfuctalsoft/AIP/blob/images/image.png?raw=true)
