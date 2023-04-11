@@ -13,7 +13,7 @@ You can download it from that repository
 Move all your files to one directory (main directory)
 
 ![Your directory may look like this](https://github.com/wfuctalsoft/AIP/blob/images/image.png?raw=true)
-Create file 'Package.aini' in the main directory.
+Create file `Package.aini` in the main directory.
 Open it with your text editor.
 ### Settings for Package.aini
 For change manufacturer, add this line in `Package.aini`
